@@ -6,11 +6,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install instalo
 
 Install "Insta-Loader" library.
 ```bash
-pip3 install instaloader
+$ pip3 install instaloader
 ```
 Install "Requests" library.
 ```bash
-pip3 install requests
+$ pip3 install requests
 ```
 ## Setup
 Run this command for your environment configuration and run.
