@@ -13,7 +13,7 @@ Install "Requests" library.
 $ pip3 install requests
 ```
 ## Setup
-Run this command for your environment configuration and run.
+Run this command for your environment configuration.
 ```bash
 $ python3 IGT_CYW.py -s
 ```
