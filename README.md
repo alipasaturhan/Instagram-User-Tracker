@@ -21,7 +21,7 @@ or
 ```bash
 $ python3 IGT_CYW.py --setup
 ```
-And you can check with "ls" command on your working directory.
+And you can check them with "ls" command on your working directory.
 
 ```python
 username, password, target = "<your_ig_username>", "<your_ig_password>", "<target_ig_username>"
